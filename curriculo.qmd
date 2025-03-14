@@ -1,0 +1,16 @@
+---
+title: "Currículo"
+format: html
+---
+
+# Informações de Interesse
+
+## Educação
+
+-   **Licenciatura em Saúde Digital e Inovação Biomédica** – Faculdade de Medicina da Universidade do Porto (2024-2027)
+
+## Habilidades Técnicas
+
+-   Linguagens: Java, HTML, CSS
+-   Ferramentas: Quarto, Netlify, GitHub, RStudio, InteliJ IDEA
+-   Temas: Saúde Digital, Inteligência Artificial, Bioestatística

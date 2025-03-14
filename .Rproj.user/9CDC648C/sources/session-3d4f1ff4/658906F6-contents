@@ -1,0 +1,20 @@
+---
+title: "Bem-vindo ao meu site"
+format: html
+---
+
+# Sobre Mim
+
+Olá! O meu nome é **Marcelo** e sou estudante de **Saúde Digital e Inovação Biomédica**. Este site é um espaço para compartilhar os meus projetos, experiências e interesses na área.
+
+Explorar mais:
+
+-   [Currículo](curriculo.qmd)
+
+-   [Projetos](projetos.qmd)
+
+-   [Contactos](contactos.qmd)
+
+-   Este sou eu:
+
+<img src="files/eu.jpg" alt="Este sou eu" width="300px"/>

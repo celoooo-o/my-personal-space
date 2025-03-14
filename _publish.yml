@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 41f48020-12a2-4cf2-bf22-f73abd750a09
+      url: https://subtle-mousse-be0a6a.netlify.app
